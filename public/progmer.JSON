@@ -1,0 +1,166 @@
+[
+   
+    {
+      "id": "5",
+      "price":19000,
+      "img":"https://www.thecrazyprogrammer.com/ezoimgfmt/3.bp.blogspot.com/-vA6b9fnfJoI/UwjjqFOqmNI/AAAAAAAACHA/sEQMP00onaw/s1600/Bjarne+Stroustrup.jpg?ezimgfmt=rs:400x300/rscb1/ng:webp/ngcb1",
+        "age":49,
+      "name": "Bjarne ",
+      "about": " C++ Developer",
+      "address": "Morgan Stanley.",
+      "company": "Apple",
+      "num":1
+     
+    },
+    {
+        "id": "3",
+        "price":23002,
+        "img":"https://www.thecrazyprogrammer.com/ezoimgfmt/4.bp.blogspot.com/-EtgZqoZX2dE/Uwjk3qbwbBI/AAAAAAAACH4/8vJw4USybms/s1600/Guido+van+Rossum.jpg?ezimgfmt=rs:296x398/rscb1/ng:webp/ngcb1",
+          "age":27,
+        "name": " Faulknerlin",
+        "about": " Java Developer",
+        "address": "Hasty, Florida",
+        "company": "Fleetmix",
+        "num":1
+       
+  
+      },
+      {
+        "id": "4",
+        "price":13200,
+        "img":"https://www.thecrazyprogrammer.com/ezoimgfmt/2.bp.blogspot.com/-GqbDdU4zyQo/Uwjje48KzOI/AAAAAAAACG4/cblGVCdXbBY/s1600/Dennis+Ritchie.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1",
+          "age":45,
+        "name": "Dennis ",
+        "about": " C Developer",
+        "address": "Hasty, USA",
+        "company": "Microsoft",
+        "num":1
+        
+  
+      },
+
+    
+
+      {
+        "id": "6",
+        "price":12980,
+        "img":"https://www.thecrazyprogrammer.com/ezoimgfmt/1.bp.blogspot.com/-XTVhSIzm6T8/UwjlCPAeONI/AAAAAAAACIA/_VEtLp5256o/s1600/James+Gosling.jpg?ezimgfmt=rs:317x319/rscb1/ng:webp/ngcb1",
+          "age":49,
+        "name": "Linus ",
+        "about": "Python Developer",
+        "address": " Finland ",
+        "company": "Gogle",
+        "num":1
+      
+      },
+
+
+      {
+        "id": "7",
+        "price":12980,
+        "img":"https://www.thecrazyprogrammer.com/ezoimgfmt/4.bp.blogspot.com/-Zznu7fM9g30/UwjkeqBlcjI/AAAAAAAACHo/EHhf0RF-nF8/s1600/Ken+Thompson.jpg?ezimgfmt=rs:320x317/rscb1/ng:webp/ngcb1",
+          "age":49,
+        "name": "Guido van ",
+        "about": "C Developer",
+        "address": " USA ",
+        "company": "DevOps",
+        "num":1
+     
+      },
+      {
+        "id": "1",
+        "price":12000,
+        "img":"https://www.thecrazyprogrammer.com/ezoimgfmt/4.bp.blogspot.com/-F3kb76UMANk/Uwq6fhjIEuI/AAAAAAAACIY/thLBBgmOuwM/s1600/Anders+Hejlsberg.jpg?ezimgfmt=rs:292x398/rscb1/ng:webp/ngcb1",
+        "name": " Faulknerlin",
+        "age":29,
+        "about": "javascript developer ",
+        "address": "48 Flatlands Avenue, Cutter, North Dakota",
+        "company": "Scenty",
+        "num":1
+  
+      },
+      {
+        "id": "2",
+        "price":12000,
+        "img":"https://www.thecrazyprogrammer.com/ezoimgfmt/4.bp.blogspot.com/-F3kb76UMANk/Uwq6fhjIEuI/AAAAAAAACIY/thLBBgmOuwM/s1600/Anders+Hejlsberg.jpg?ezimgfmt=rs:292x398/rscb1/ng:webp/ngcb1",
+          "age":21,
+        "name": "Howell ",
+        "about": "javascript developer ",
+        "address": "77 Hemlock Street, Hasty, Florida",
+        "company": "Fleetmix",
+        "num":1
+       
+  
+      },
+
+      {
+        "id": "8",
+        "price":21831,
+        "img":"https://webneel.com/image/misc/jeffrey-zeldman-website-designer.jpg",
+          "age":49,
+        "name": "Jeffrey ",
+        "about": "Website Designer",
+        "address": "  American",
+        "company": "Gogle",
+        "num":1
+        
+      },
+
+      {
+        "id": "9",
+        "price":20000,
+        "img":"https://webneel.com/image/misc/simon-collison-website-designer.jpg",
+          "age":29,
+        "name": "Simon ",
+        "about": "Website Designer",
+        "address": "  UK",
+        "company": "Gogle",
+        "num":1
+       
+      },
+
+      {
+        "id": "10",
+        "price":2000,
+        "img":"https://www.thecrazyprogrammer.com/ezoimgfmt/1.bp.blogspot.com/-XTVhSIzm6T8/UwjlCPAeONI/AAAAAAAACIA/_VEtLp5256o/s1600/James+Gosling.jpg?ezimgfmt=rs:317x319/rscb1/ng:webp/ngcb1",
+          "age":49,
+        "name": "Linus ",
+        "about": "Python Developer",
+        "address": " Finland ",
+        "company": "Gogle",
+        "num":1
+        
+      },
+
+      {
+        "id": "11",
+        "price":13200,
+        "img":"https://www.thecrazyprogrammer.com/ezoimgfmt/2.bp.blogspot.com/-GqbDdU4zyQo/Uwjje48KzOI/AAAAAAAACG4/cblGVCdXbBY/s1600/Dennis+Ritchie.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1",
+          "age":"45",
+        "name": "Dennis",
+        "about": " C Developer",
+        "address": "Hasty, USA",
+        "company": "Microsoft",
+        "num":1
+       
+  
+      },
+      {
+        "id": "12",
+        "img":"https://www.thecrazyprogrammer.com/ezoimgfmt/3.bp.blogspot.com/-vA6b9fnfJoI/UwjjqFOqmNI/AAAAAAAACHA/sEQMP00onaw/s1600/Bjarne+Stroustrup.jpg?ezimgfmt=rs:400x300/rscb1/ng:webp/ngcb1",
+          "age":"49",
+          "price":19000,
+        "name": "Bjarne ",
+        "about": " C++ Developer",
+        "address": "Morgan Stanley.",
+        "company": "Apple",
+        "num":1
+        
+      }
+
+
+
+
+
+  
+  ]
